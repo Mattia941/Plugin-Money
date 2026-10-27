@@ -1,0 +1,10 @@
+name: MythMC
+version: 1.0
+main: net.mythmc.MythMC
+api-version: 1.16
+depend: [PlaceholderAPI]
+
+commands:
+  mythmc:
+    description: Comando principale per la gestione delle 6 valute
+    aliases: [myth, eco]
